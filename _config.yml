@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
    for PS5s and Sous Vides
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: avi32097933
+github_username: bigcheez9315
 
 # Build settings
 theme: minima
