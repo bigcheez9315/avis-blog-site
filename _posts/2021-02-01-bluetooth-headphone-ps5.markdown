@@ -47,18 +47,18 @@ so it could be I have a flawed experience. It is possible that both the sound an
 or other bluetooth headset work with your ps5 out the box, but if you run into the same scenario that I did, then
 I still have a solution for you. I'll go through the setup step-by-step, with images below.
 
-First, take your audio transmitter out of the box. Here is what the one I bought looks like. ![miilink device]({{ site.url }}/assets/miilink_solo.jpeg). You can plug it into the usb-c port on the side of the ps5. Here is an image of where the usb-c port is located. ![PS5 usb-c port]({{ site.url }}/assets/ps5_sideview.jpeg). Here is what it looks like after plugging it in: ![PS5 miilink]({{ site.url }}/assets/ps5_miilink_plugged_in.jpeg)
+First, take your audio transmitter out of the box. Here is what the one I bought looks like. ![miilink device]({{ site.url }}/assets/img/miilink_solo.jpeg). You can plug it into the usb-c port on the side of the ps5. Here is an image of where the usb-c port is located. ![PS5 usb-c port]({{ site.url }}/assets/img/ps5_sideview.jpeg). Here is what it looks like after plugging it in: ![PS5 miilink]({{ site.url }}/assets/img/ps5_miilink_plugged_in.jpeg)
 Follow the instructions on the device to pair it with your bluetooth headset. In the Playstation5 settings, you are able to select both the device to use for audio input and the device to use for audio output. If the microphone for your bluetooth headset isn't working, you can switch the audio input device to be your dualshock controller because the new PS5 controllers have a built in microphone. You can
 change this setting in two different ways. The long way is to go to the PS5 home, click settings->Sound. In the "Microphone" tab,
-click "Input Device" and select "Microphone on Controller", as show in image below. ![PS5 Sound Microphone Setting]({{ site.url }}/assets/ps5_sound_microphone_setting.jpeg) This will change the microphone to use your controller instead of the bluetooth audio device.
+click "Input Device" and select "Microphone on Controller", as show in image below. ![PS5 Sound Microphone Setting]({{ site.url }}/assets/img/ps5_sound_microphone_setting.jpeg) This will change the microphone to use your controller instead of the bluetooth audio device.
 In the "Audio Output" tab, make sure that "Output Device" is set to "USB Headset", as seen in image below.
 change the audio input device to your controller and the output device to your wireless headset, as in the image
-below. ![PS5 Audio output setting]({{ site.url }}/assets/ps5_sound_audio_output_setting.jpeg)
+below. ![PS5 Audio output setting]({{ site.url }}/assets/img/ps5_sound_audio_output_setting.jpeg)
 
 There is also a shortcut to do this, by clicking playstation button in the center of the controller and
-selecting the sound icon or microphone icon to change the respective devices. ![PS5 microphone setting shortcut]({{ site.url }}/assets/ps5_mic_shortcut.jpeg)
+selecting the sound icon or microphone icon to change the respective devices. ![PS5 microphone setting shortcut]({{ site.url }}/assets/img/ps5_mic_shortcut.jpeg)
 
-![PS5 audio output setting shortcut]({{ site.url }}/assets/ps5_audio_output_shortcut.jpeg)
+![PS5 audio output setting shortcut]({{ site.url }}/assets/img/ps5_audio_output_shortcut.jpeg)
 The benefit of this shortcut, is you can change the setting quickly, without needing to leave your current game.
 
 With this approach, I'm able to hear my friends using my airpods and they can hear me through the dualshock controller. I'm now finally able to get rid of my shitty, old pair of wired headphones and can just use a single pair of headphones for gaming and all of my other audio needs.
