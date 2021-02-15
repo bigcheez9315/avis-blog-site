@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "How to Connect Bluetooth Headphones to Playstation5 (Step-by-Step Tutorial)"
-date: 2021-02-01 21:51:22 -0500
+date: 2021-02-15 12:42:00 -0500
 categories: jekyll update
 ---
+
+# Is it possible to connect 3rd part bluetooth headphones to PS5?
 
 Are you thinking about getting a PS5 but frustrated with Sony for not
 providing built in bluetooth capability for you to connect your favorite
@@ -46,6 +48,8 @@ for the airpods won't work even after using an audio transmitter. I only tested 
 so it could be I have a flawed experience. It is possible that both the sound and the microphone for your airpods
 or other bluetooth headset work with your ps5 out the box, but if you run into the same scenario that I did, then
 I still have a solution for you. I'll go through the setup step-by-step, with images below.
+
+# Step-by-Step tutorial to setup PS5 with wireless bluetooth headphones using bluetooth transmitter
 
 First, take your audio transmitter out of the box. Here is what the one I bought looks like. ![miilink device](/assets/img/miilink_solo.jpeg). You can plug it into the usb-c port on the side of the ps5. Here is an image of where the usb-c port is located. ![PS5 usb-c port](/assets/img/ps5_sideview.jpeg). Here is what it looks like after plugging it in: ![PS5 miilink](/assets/img/ps5_miilink_plugged_in.jpeg)
 Follow the instructions on the device to pair it with your bluetooth headset. In the Playstation5 settings, you are able to select both the device to use for audio input and the device to use for audio output. If the microphone for your bluetooth headset isn't working, you can switch the audio input device to be your dualshock controller because the new PS5 controllers have a built in microphone. You can
